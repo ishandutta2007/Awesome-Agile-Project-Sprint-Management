@@ -60,95 +60,95 @@ The sector is **moderately fragmented**:
 
 ## 💻 Open-Source GitHub Projects
 
-Explore the finest self-hosted agile project management suites, Scrum ceremony frameworks, and lightweight Kanban engines—ranked by popularity (**GitHub Stars descending**).
+Explore the finest self-hosted agile project management suites, Scrum ceremony frameworks, and lightweight Kanban engines—ranked by popularity (**GitHub_Stars descending**).
 
 ### Top Agile & Sprint Repositories (Ranked by Stars)
 
-1. **[Plane](https://github.com/makeplane/plane)** [![GitHub stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers) 🌟
+1. **[Plane](https://github.com/makeplane/plane)** [![GitHub_Stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers) 🌟
    - **Description**: An extensible, modern open-source Jira and Linear alternative with a lightning-fast UI. Supports project cycles (sprints), work modules, issue triage, burn-down metrics, and rich-text Pages.
    - **Tech Stack**: Next.js, TypeScript, Python, PostgreSQL, Redis • **License**: AGPL-3.0
    - **Deployment**: Docker Compose, Kubernetes, or Plane Cloud.
    - **Trade-off**: Tailored for agile product and engineering teams; lacks heavy enterprise financial portfolio/cost governance.
 
-2. **[Focalboard](https://github.com/mattermost-community/focalboard)** [![GitHub stars](https://img.shields.io/github/stars/mattermost-community/focalboard?style=social&color=white)](https://github.com/mattermost-community/focalboard/stargazers) 🌟
+2. **[Focalboard](https://github.com/mattermost-community/focalboard)** [![GitHub_Stars](https://img.shields.io/github/stars/mattermost-community/focalboard?style=social&color=white)](https://github.com/mattermost-community/focalboard/stargazers) 🌟
    - **Description**: An open-source, multilingual, self-hosted alternative to Trello, Notion, and Asana developed by Mattermost. Provides Kanban boards, sprint cards, calendar schedules, and table views.
    - **Tech Stack**: TypeScript, React, Go, SQLite/PostgreSQL • **License**: AGPL-3.0 / Apache-2.0
    - **Deployment**: Standalone server, Docker, or integrated inside Mattermost.
    - **Trade-off**: Primarily task- and board-oriented; lacks built-in planning poker and advanced SAFe ceremony automation.
 
-3. **[WeKan](https://github.com/wekan/wekan)** [![GitHub stars](https://img.shields.io/github/stars/wekan/wekan?style=social&color=white)](https://github.com/wekan/wekan/stargazers) 🌟
+3. **[WeKan](https://github.com/wekan/wekan)** [![GitHub_Stars](https://img.shields.io/github/stars/wekan/wekan?style=social&color=white)](https://github.com/wekan/wekan/stargazers) 🌟
    - **Description**: Mature, battle-tested open-source collaborative Kanban board with swimlanes, custom fields, WIP limits, subtasks, checklists, and zero telemetry.
    - **Tech Stack**: Meteor, JavaScript, MongoDB • **License**: MIT
    - **Deployment**: Docker, Snap, Sandstorm, Kubernetes, Univention.
    - **Trade-off**: Classical Kanban focus; does not feature dedicated Scrum sprint burndown charts out of the box.
 
-4. **[OpenProject](https://github.com/opf/openproject)** [![GitHub stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers) 🌟
+4. **[OpenProject](https://github.com/opf/openproject)** [![GitHub_Stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers) 🌟
    - **Description**: The enterprise-grade open-source agile suite and leading self-hosted Jira alternative. Delivers Scrum and Kanban boards, interactive Gantt roadmaps, release tracking, time logging, and budget reporting.
    - **Tech Stack**: Ruby on Rails, Angular, PostgreSQL • **License**: GPL-3.0
    - **Deployment**: Docker, DEB/RPM packages, Helm, OpenProject Cloud.
    - **Trade-off**: Configuration complexity; advanced portfolio resource management modules are gated behind Enterprise add-ons.
 
-5. **[OneDev](https://github.com/theonedev/onedev)** [![GitHub stars](https://img.shields.io/github/stars/theonedev/onedev?style=social&color=white)](https://github.com/theonedev/onedev/stargazers) 🌟
+5. **[OneDev](https://github.com/theonedev/onedev)** [![GitHub_Stars](https://img.shields.io/github/stars/theonedev/onedev?style=social&color=white)](https://github.com/theonedev/onedev/stargazers) 🌟
    - **Description**: All-in-one DevOps and agile issue-tracking platform featuring customizable agile boards, sprint iterations, code search, automated CI/CD pipelines, and deep Git integration.
    - **Tech Stack**: Java, Wicket, TypeScript • **License**: Apache-2.0
    - **Deployment**: Docker, Kubernetes, bare-metal binary.
    - **Trade-off**: Broad DevOps platform covering git hosting and CI/CD; heavier if your team only seeks lightweight sprint planning.
 
-6. **[Planka](https://github.com/plankanban/planka)** [![GitHub stars](https://img.shields.io/github/stars/plankanban/planka?style=social&color=white)](https://github.com/plankanban/planka/stargazers) 🌟
+6. **[Planka](https://github.com/plankanban/planka)** [![GitHub_Stars](https://img.shields.io/github/stars/plankanban/planka?style=social&color=white)](https://github.com/plankanban/planka/stargazers) 🌟
    - **Description**: Sleek, realtime, and lightweight Kanban board designed for agile software teams. Features real-time board updates, card timers, markdown attachments, and user role management.
    - **Tech Stack**: React, Redux, Node.js, PostgreSQL • **License**: AGPL-3.0
    - **Deployment**: Docker Compose, Kubernetes.
    - **Trade-off**: Board-centric; requires complementary tools for complex multi-sprint velocity analytics.
 
-7. **[Leantime](https://github.com/Leantime/leantime)** [![GitHub stars](https://img.shields.io/github/stars/Leantime/leantime?style=social&color=white)](https://github.com/Leantime/leantime/stargazers) 🌟
+7. **[Leantime](https://github.com/Leantime/leantime)** [![GitHub_Stars](https://img.shields.io/github/stars/Leantime/leantime?style=social&color=white)](https://github.com/Leantime/leantime/stargazers) 🌟
    - **Description**: Strategic, open-source project management platform uniting Lean methodology, Design Thinking, and Agile sprints. Designed with ADHD, neurodiversity, and startup founders in mind.
    - **Tech Stack**: PHP (Laravel), Vue.js, MySQL • **License**: AGPL-3.0
    - **Deployment**: Docker, LAMP/LEMP stack, Leantime Cloud.
    - **Trade-off**: Free self-hosted edition has task caps (~150 tasks) and focuses on goal-to-task alignment rather than complex enterprise SAFe frameworks.
 
-8. **[Kanboard](https://github.com/kanboard/kanboard)** [![GitHub stars](https://img.shields.io/github/stars/kanboard/kanboard?style=social&color=white)](https://github.com/kanboard/kanboard/stargazers) 🌟
+8. **[Kanboard](https://github.com/kanboard/kanboard)** [![GitHub_Stars](https://img.shields.io/github/stars/kanboard/kanboard?style=social&color=white)](https://github.com/kanboard/kanboard/stargazers) 🌟
    - **Description**: Ultra-fast, minimalist Kanban board emphasizing simplicity, WIP limits, automated workflow actions, subtasks, and low resource overhead.
    - **Tech Stack**: PHP, SQLite/PostgreSQL/MySQL • **License**: MIT
    - **Deployment**: Single PHP container or standard web host.
    - **Trade-off**: Minimalist interface without built-in Scrum ceremony tools, burndown charts, or sprint velocity metrics.
 
-9. **[Vikunja](https://github.com/go-vikunja/vikunja)** [![GitHub stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=social&color=white)](https://github.com/go-vikunja/vikunja/stargazers) 🌟
+9. **[Vikunja](https://github.com/go-vikunja/vikunja)** [![GitHub_Stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=social&color=white)](https://github.com/go-vikunja/vikunja/stargazers) 🌟
    - **Description**: High-performance, self-hosted to-do and agile task manager with Kanban boards, table views, Gantt charts, and subtask trees.
    - **Tech Stack**: Go, Vue.js, SQLite/PostgreSQL/MySQL • **License**: AGPL-3.0
    - **Deployment**: Docker, standalone Go binary.
    - **Trade-off**: Geared toward personal productivity and agile task lists rather than full Scrum sprint retrospectives.
 
-10. **[Taiga (Docker)](https://github.com/taigaio/taiga-docker)** [![GitHub stars](https://img.shields.io/github/stars/taigaio/taiga-docker?style=social&color=white)](https://github.com/taigaio/taiga-docker/stargazers) 🌟
+10. **[Taiga (Docker)](https://github.com/taigaio/taiga-docker)** [![GitHub_Stars](https://img.shields.io/github/stars/taigaio/taiga-docker?style=social&color=white)](https://github.com/taigaio/taiga-docker/stargazers) 🌟
     - **Description**: Dedicated agile project management application crafted specifically for pure Scrum and Kanban teams. Features user story estimation, sprint backlog grooming, epics, and team velocity charts.
     - **Tech Stack**: Python (Django), AngularJS/React, PostgreSQL • **License**: MPL-2.0 / AGPL-3.0
     - **Deployment**: Official Docker setup (`taigaio/taiga-docker`).
     - **Trade-off**: Classic UI; development velocity of newer UI components has been slower compared to modern Next.js-based alternatives.
 
-11. **[Restyaboard](https://github.com/RestyaPlatform/board)** [![GitHub stars](https://img.shields.io/github/stars/RestyaPlatform/board?style=social&color=white)](https://github.com/RestyaPlatform/board/stargazers) 🌟
+11. **[Restyaboard](https://github.com/RestyaPlatform/board)** [![GitHub_Stars](https://img.shields.io/github/stars/RestyaPlatform/board?style=social&color=white)](https://github.com/RestyaPlatform/board/stargazers) 🌟
     - **Description**: Enterprise-ready Kanban and visual work management board with offline support, chat, list/calendar/Gantt views, and Trello board migration.
     - **Tech Stack**: PHP, AngularJS, PostgreSQL • **License**: OSL-3.0
     - **Deployment**: Docker, AWS AMI, manual installation.
     - **Trade-off**: Interface and plugin model reflect older single-page architectures.
 
-12. **[iceScrum](https://github.com/icescrum/iceScrum)** [![GitHub stars](https://img.shields.io/github/stars/icescrum/iceScrum?style=social&color=white)](https://github.com/icescrum/iceScrum/stargazers) 🌟
+12. **[iceScrum](https://github.com/icescrum/iceScrum)** [![GitHub_Stars](https://img.shields.io/github/stars/icescrum/iceScrum?style=social&color=white)](https://github.com/icescrum/iceScrum/stargazers) 🌟
     - **Description**: Scrum-native collaborative workspace that recreates the physical post-it sprint wall experience with digital Scrum artifacts, user stories, release plans, and team boards.
     - **Tech Stack**: Java, Grails, MySQL/PostgreSQL • **License**: AGPL-3.0
     - **Deployment**: Self-hosted WAR or Docker.
     - **Trade-off**: Niche community; uses older enterprise Java/Grails application stack.
 
-13. **[Warmdesk](https://github.com/tonk/warmdesk)** [![GitHub stars](https://img.shields.io/github/stars/tonk/warmdesk)](https://github.com/tonk/warmdesk/stargazers) 🌟
+13. **[Warmdesk](https://github.com/tonk/warmdesk)** [![GitHub_Stars](https://img.shields.io/github/stars/tonk/warmdesk)](https://github.com/tonk/warmdesk/stargazers) 🌟
     - **Description**: Self-hosted multi-user Kanban and Scrum board integrated with an ITIL-aligned service desk, incident tracking, time reports, and CMDB.
     - **Tech Stack**: Node.js, Vue • **License**: Community / Open Source
     - **Deployment**: Self-hosted server / container.
     - **Trade-off**: Heavy emphasis on IT service desks and ticket workflows; less focused on software product engineering sprints.
 
-14. **[Scrum Agile Transformation Studio](https://github.com/alfredang/scrum)** [![GitHub stars](https://img.shields.io/github/stars/alfredang/scrum?style=social&color=white)](https://github.com/alfredang/scrum/stargazers) 🌟
+14. **[Scrum Agile Transformation Studio](https://github.com/alfredang/scrum)** [![GitHub_Stars](https://img.shields.io/github/stars/alfredang/scrum?style=social&color=white)](https://github.com/alfredang/scrum/stargazers) 🌟
     - **Description**: Single-file browser-based Scrum ceremony studio covering the entire agile lifecycle: Product Vision, 4-Quarter Roadmaps, Backlogs, Planning Poker (1–21), Daily Standup 15-min timers, Sprint Reviews, and 4-format Retrospectives.
     - **Tech Stack**: HTML5, Vanilla JavaScript, Firebase (optional) • **License**: Open Source
     - **Deployment**: Zero-install (open `index.html` in any browser or connect Firebase).
     - **Trade-off**: No persistent backend database or multi-tenant user access control; relies on browser localStorage/Firebase.
 
-15. **[pinto](https://github.com/moriturus/pinto)** [![GitHub stars](https://img.shields.io/github/stars/moriturus/pinto?style=social&color=white)](https://github.com/moriturus/pinto/stargazers) 🌟
+15. **[pinto](https://github.com/moriturus/pinto)** [![GitHub_Stars](https://img.shields.io/github/stars/moriturus/pinto?style=social&color=white)](https://github.com/moriturus/pinto/stargazers) 🌟
     - **Description**: Local-first Scrum backlog and Kanban TUI for the command line. Stores Product Backlog Items (PBIs) and sprints in plain text for effortless version control with Git.
     - **Tech Stack**: Rust • **License**: MIT
     - **Deployment**: `cargo install pinto-cli`.
@@ -191,7 +191,7 @@ Contributions are warmly welcomed! Help make this curated agile resource even be
 2. 🌿 **Create a descriptive feature branch** (`git checkout -b add-awesome-tool`).
 3. 📝 **Add or update the project entry** in `README.md` following the established format:
    - Tool name and official link
-   - GitHub stars badge (with `style=social&color=white`) linking to its stargazers page
+   - GitHub_Stars_Badge (with `style=social&color=white`) linking to its stargazers page
    - Concise 1–2 sentence description highlighting sprint/agile capabilities
    - Tech stack, license, and deployment options
    - Realistic trade-offs / architectural considerations
